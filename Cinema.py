@@ -272,3 +272,6 @@ while sw_principal:
 print("End of the program")
 
 #Modificacion para probar git 
+
+print("Modificación para probar git")
+print("Modificación para probar git 2")
